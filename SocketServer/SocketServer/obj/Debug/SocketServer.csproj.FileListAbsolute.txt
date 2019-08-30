@@ -1,0 +1,15 @@
+C:\Users\mazha\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\mazha\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\mazha\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\mazha\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+C:\Users\mazha\source\repos\SocketServer\SocketServer\obj\Debug\MainWindow.g.cs
+C:\Users\mazha\source\repos\SocketServer\SocketServer\obj\Debug\App.g.cs
+C:\Users\mazha\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer_MarkupCompile.cache
+C:\Users\mazha\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer_MarkupCompile.lref
+C:\Users\mazha\source\repos\SocketServer\SocketServer\obj\Debug\MainWindow.baml
+C:\Users\mazha\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.g.resources
+C:\Users\mazha\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\mazha\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.cache
+C:\Users\mazha\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\mazha\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\mazha\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.pdb

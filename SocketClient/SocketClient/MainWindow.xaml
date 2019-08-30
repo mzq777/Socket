@@ -1,0 +1,25 @@
+﻿<Window x:Class="SocketClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SocketClient"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="客户端" Height="450" Width="750">
+    <Grid>
+        <Label Content="IP" Name="lblIP" HorizontalAlignment="Left" Margin="105,16,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Name="txtIP" Height="23" Margin="125,16,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="端口" Name="lblPort" HorizontalAlignment="Left" Margin="255,16,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Name="txtPort" Height="23" Margin="285,16,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60"/>
+        <Button Content="连接" Name="btnConnect" HorizontalAlignment="Left" Margin="395,16,0,0" VerticalAlignment="Top" Width="80" Height="23" Click="BtnConnect_Click"/>
+        <Button Content="断开连接" Name="btnClose" HorizontalAlignment="Left" Margin="495,16,0,0" VerticalAlignment="Top" Width="80" Height="23" Click="BtnClose_Click"/>
+        <GroupBox Header="接收" HorizontalAlignment="Left" Height="180" Margin="34,51,0,0" VerticalAlignment="Top" Width="670">
+            <TextBox Name="txtRec" HorizontalAlignment="Center" Height="150" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="650"/>
+        </GroupBox>
+        <GroupBox Header="发送" HorizontalAlignment="Left" Height="110" Margin="34,241,0,0" VerticalAlignment="Top" Width="670">
+            <TextBox Name="txtSend" HorizontalAlignment="Center" Height="80" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="650"/>
+        </GroupBox>
+        <Button Content="发送" Name="btnSend" HorizontalAlignment="Left" Margin="629,371,0,0" VerticalAlignment="Top" Width="75" Height="30" Click="BtnSend_Click"/>
+    </Grid>
+</Window>

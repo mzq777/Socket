@@ -1,0 +1,15 @@
+C:\Users\mazha\source\repos\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\mazha\source\repos\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\mazha\source\repos\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\mazha\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+C:\Users\mazha\source\repos\SocketClient\SocketClient\obj\Debug\MainWindow.g.cs
+C:\Users\mazha\source\repos\SocketClient\SocketClient\obj\Debug\App.g.cs
+C:\Users\mazha\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient_MarkupCompile.cache
+C:\Users\mazha\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient_MarkupCompile.lref
+C:\Users\mazha\source\repos\SocketClient\SocketClient\obj\Debug\MainWindow.baml
+C:\Users\mazha\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.g.resources
+C:\Users\mazha\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\mazha\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\mazha\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\mazha\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\mazha\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
